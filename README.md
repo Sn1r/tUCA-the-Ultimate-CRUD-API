@@ -1,12 +1,13 @@
 # tUCA - the Ultimate CRUD API
 
-tUCA is a RESTful API built with Express.js and MongoDB that provides full CRUD functionality for managing data. The API also supports GraphQL for advanced queries and filtering.
+tUCA is a RESTful API built with Express and MongoDB that provides full CRUD functionality for managing data. The API also supports GraphQL for advanced queries and filtering.
 
 ## Features
 
 - Full CRUD (Create, Read, Update, Delete) functionality for managing data
 - Supports RESTful API and GraphQL for advanced queries and filtering
 - Uses MVC (Model-View-Controller) approach for better organization and separation of concerns
+- Uses User authentication and authorization
 
 ## Getting Started
 
