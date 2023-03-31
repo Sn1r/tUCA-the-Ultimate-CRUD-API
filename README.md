@@ -13,13 +13,15 @@ tUCA is a RESTful API built with Express and MongoDB that provides full CRUD fun
 
 To get started with tUCA, follow these steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/your-username/tUCA.git`
-2. Install the dependencies by running `npm install`
+1. Clone the repository <br>
+`git clone https://github.com/Sn1r/tUCA-the-Ultimate-CRUD-API.git`
+2. Install the dependencies <br>
+`npm install`
 3. Create a `.env` file in the root directory of the project and set the following environment variables:
-    - `PORT`: the port number to run the server on
-    - `MONGODB_URI`: the connection string to your MongoDB database
+    - `MONGO_URI`: the connection string to your MongoDB database
     - `JWT_SECRET`: the secret key for generating JSON Web Tokens
-4. Start the server by running `npm start`
+4. Start the server <br>
+`npm start`
 
 ## API Endpoints
 
