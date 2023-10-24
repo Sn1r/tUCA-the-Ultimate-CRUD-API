@@ -1,5 +1,3 @@
-![image](https://github.com/Sn1r/tUCA-the-Ultimate-CRUD-API/assets/71400526/a6c41ab1-71f5-4ddb-83fd-fdfcac8adf6c)
-
 # tUCA - the Ultimate CRUD API
 
 tUCA is a RESTful API built with Express and MongoDB that provides full CRUD functionality for managing data. The API also supports GraphQL for advanced queries and filtering.
